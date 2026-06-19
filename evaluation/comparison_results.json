@@ -1,0 +1,25 @@
+{
+  "config_a": {
+    "config": "A (batched)",
+    "elapsed": 225.6038465499878,
+    "total_calls": 40,
+    "claim_status_accuracy": 1.0,
+    "issue_type_accuracy": 1.0,
+    "object_part_accuracy": 1.0,
+    "evidence_met_accuracy": 1.0,
+    "valid_image_accuracy": 1.0,
+    "severity_accuracy": 1.0
+  },
+  "config_b": {
+    "config": "B (per-image)",
+    "elapsed": 261.0910675525665,
+    "total_calls": 49,
+    "claim_status_accuracy": 1.0,
+    "issue_type_accuracy": 1.0,
+    "object_part_accuracy": 1.0,
+    "evidence_met_accuracy": 1.0,
+    "valid_image_accuracy": 1.0,
+    "severity_accuracy": 1.0
+  },
+  "winner": "A (batched)"
+}

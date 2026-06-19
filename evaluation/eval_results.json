@@ -1,0 +1,43 @@
+{
+  "elapsed_seconds": 254.01387190818787,
+  "report": {
+    "claim_status": {
+      "accuracy": 1.0,
+      "correct": 20,
+      "total": 20
+    },
+    "issue_type": {
+      "accuracy": 0.95,
+      "correct": 19,
+      "total": 20
+    },
+    "object_part": {
+      "accuracy": 0.95,
+      "correct": 19,
+      "total": 20
+    },
+    "evidence_standard_met": {
+      "accuracy": 1.0,
+      "correct": 20,
+      "total": 20
+    },
+    "valid_image": {
+      "accuracy": 1.0,
+      "correct": 20,
+      "total": 20
+    },
+    "severity": {
+      "accuracy": 1.0,
+      "correct": 20,
+      "total": 20
+    },
+    "risk_flags": {
+      "avg_f1": 0.8844444444444445
+    },
+    "supporting_image_ids": {
+      "avg_f1": 0.9833333333333334
+    }
+  },
+  "claim_status_accuracy": 1.0,
+  "total_claims": 20
+}
